@@ -1,5 +1,24 @@
 {
-  "heroes": [],
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "e59f4551-6f36-4854-83eb-0eae2eb4f4a1",
+      "name": "sdf",
+      "description": "kkk",
+      "element": "fire"
+    }
+  ],
   "filters": [
     {
       "name": "all",
