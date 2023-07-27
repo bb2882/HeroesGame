@@ -1,6 +1,6 @@
 # Project "Heroes"
 
-Hello! This is the repository for the "Project Name" project, built with React and Redux. The project is an interactive form for creating and managing characters with different elemental abilities (fire, water, earth, air).
+Hello! This is the repository for the "Heroes" project, built with React and Redux. The project is an interactive form for creating and managing characters with different elemental abilities (fire, water, earth, air).
 
 ![Heroes](https://github.com/bb2882/React-Redux_Game/assets/70382872/5397e816-91b1-4a7c-b005-e6463770b495)
 
